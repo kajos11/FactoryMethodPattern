@@ -4,8 +4,8 @@ public class ChicagoStyleCheesePizza extends Pizza {
 	
 	public ChicagoStyleCheesePizza() {
 		name = "Chicago style sauce and cheese pizza";
-		dough = "thin crust dough";
-		sauce = "Marinara Sauce";
+		dough = "thick crust dough";
+		sauce = "Plum tomato sauce";
 	}
 
 }
